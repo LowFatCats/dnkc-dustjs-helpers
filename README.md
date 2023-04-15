@@ -27,7 +27,7 @@ under `article` property.
 Usage:
 ```
 {@article id="12345"}
-    Title: {artitle.title}
+    Title: {article.title}
 {/article}
 ```
 
