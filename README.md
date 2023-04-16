@@ -79,7 +79,7 @@ In the snippet above `{>your-render /}` DustJS partial is being instantiated usi
             image: "http://url.com/path/images/sam.jpg",
             caption: "Samuel"
         },
-        {s
+        {
             image: "http://url.com/path/images/jasper.jpg",
             image__thumb: "http://url.com/path/images/jasper_th.jpg",
             size: "2000x1333"
